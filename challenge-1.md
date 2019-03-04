@@ -26,4 +26,10 @@ Review the Engineering Design Process image. Refer back to it throughout to bett
 ### SUPPLIES
 Paper, tape, cardboard, Lego, cable-ties, K'nex, CDs, cups, tin foil, felt, hot glue guns, craft sticks, straws, paper clips,yarn ball,scissors
 
+### Need to inspired?
+
+1. [https://mytechadventure.weebly.com/blog/sphero-chariot-challenge](https://mytechadventure.weebly.com/blog/sphero-chariot-challenge)
+2. [https://edu.sphero.com/cwists/preview/63-chariot-stem-challengex](https://edu.sphero.com/cwists/preview/63-chariot-stem-challengex)
+
+
 
