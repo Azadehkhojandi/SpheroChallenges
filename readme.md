@@ -2,6 +2,7 @@
 
 ![alt text](https://www.sphero.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/o/bolt-header.jpg "sphero bolt")
 
+
 ## Challanges
 
 * [Challenge 1: Chariot Challenge](challenge-1.md)

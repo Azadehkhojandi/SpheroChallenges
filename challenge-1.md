@@ -2,7 +2,19 @@
 
 Design and create a Sphero chariot, then create a program for Sphero to navigate the race course.
 
-The sphero drags the charriot across the room, displays an icon on the LED panel to request an item and then we load the item and the sphero carries it back.  The team who gets the items the fastest, or gets the most items wins. 
+The sphero drags the charriot across the room, where coaches stand with stack of colored (Red, Green,Blue) tokens, your sphero displays a number in the color of your choice on the LED panel to request the number of items.
+For example if you show number 2 in red, coach with put 2 red tokens in the chariot. If you don't show the number and only lit the display color  in red, coach will put one red token in your in the chariot. If you show 22 and first 2 in red and second 2 in green, coach will put 2 red tokens and 2 greens in the chariot.
+
+Note: Total of collected tokens in each color should be a prime number 
+You have 20 mins from start to end of the challange. 
+
+## Winning Criteria
+
+Teams will score by following this formula 
+
+TotalScore=number of collected red token * number of collected green token *  number of collected blue token
+
+
 
 
 ![alt text](https://sphero-media-live.s3.amazonaws.com/cwist/cwists/ec/e4/dfc465f9ece44a3697d7f4540ad5af01_500_500.png "Chariot Challenge")
