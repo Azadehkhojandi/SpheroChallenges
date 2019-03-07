@@ -2,12 +2,12 @@
 
 Design and create a Sphero chariot, then create a program for Sphero to navigate the race course.
 
-The sphero drags the charriot across the room, where coaches stand with stack of colored (Red, Green,Blue) tokens,you need to indicate the coaches how many token and which color you need it.
+The sphero drags the charriot across the room, where coaches stand with stack of colored (Red, Green,Blue) gems,you need to indicate the coaches how many gems and which color you need it.
 
-some ideas:
-For example if you show number 2 in red, coach with put 2 red tokens in the chariot. If you don't show the number and only lit the display color  in red, coach will put one red token in your in the chariot. If you show 22 and first 2 in red and second 2 in green, coach will put 2 red tokens and 2 greens in the chariot.
+Some ideas:
+For example if you show number 2 in red, coach with put 2 red gems in the chariot. If you don't show the number and only lit the display color  in red, coach will put one red token in your in the chariot. If you show 22 and first 2 in red and second 2 in green, coach will put 2 red tokens and 2 greens in the chariot.
 
-Note: Total of collected tokens in each color should be a prime number 
+
 You have 20 mins from start to end of the challange. 
 
 ## Winning Criteria
