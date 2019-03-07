@@ -24,6 +24,7 @@ we will use "point" system.  So winning the challenge gives 10 points, 8 points,
 ### References 
 
 Where to start?
+0. [Download the apps to drive your robot and run programs](https://edu.sphero.com/d)
 1. [https://sphero.docsapp.io/docs/get-started](https://sphero.docsapp.io/docs/get-started)
 2. [https://github.com/sphero-inc](https://github.com/sphero-inc)
 
